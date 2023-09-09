@@ -1,19 +1,44 @@
-### Hi there 👋
+
+# 👋 Hey there 
+
+👨‍💻 Computer Science Student | 🤖 Machine Learning Enthusiast | 🔐 Cybersecurity Enthusiast
+
+###  What I'm Up To
+
+-  Currently pursuing a degree in Computer Science
+-  Exploring the latest advancements in Machine Learning
+-  Learning and applying cybersecurity techniques to ensure digital safety
 
 <!--
-**SumiranBhattarai/SumiranBhattarai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Projects
 
-Here are some ideas to get you started:
+Here are some of the projects I'm proud of:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- [Project Name 1](link-to-repo): A brief description of Project 1.
+- [Project Name 2](link-to-repo): A brief description of Project 2.
+- [Project Name 3](link-to-repo): A brief description of Project 3.
+
+Feel free to explore them and provide your feedback!
 -->
-<div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW80Yms5cWg1dngyNnR3bTQ5bTNzeTV1czFnOHZsMG9oMWw4cGtqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif)https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW80Yms5cWg1dngyNnR3bTQ5bTNzeTV1czFnOHZsMG9oMWw4cGtqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
+### 🛠️ Skills
+
+- **Programming Languages**: Python, Java, C++
+- Machine Learning
+- Cyber Security
+- Drawing 😉
+
+### 📫 Let's Connect
+<div id="badges">
+  <a href="https://www.linkedin.com/in/sumiran-bhattarai-71343b224/L">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
+
+## :fire: My Streak
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SumiranBhattarai&theme=dark&background=000000)](https://git.io/streak-stats)
+
+## Languages Used
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SumiranBhattarai&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
